@@ -1,4 +1,4 @@
-# bootstrapwebpage
+# bootstrap webpage
 This project is about a webpage, which is made by using Bootstrap.<br>
 Header using the .display and &lt;i class="bi bi-star"&gt;&lt;/i&gt; to create.<br>
 Using &lt;div class="container py-3 mb-3"&gt; to create the page main body.<br>
